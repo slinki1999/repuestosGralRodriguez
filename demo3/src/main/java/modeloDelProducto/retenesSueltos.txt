@@ -1,92 +1,91 @@
-Codigo 00288 ; marca sabo reten ; $ 
-Codigo 01135 ; marca sabo reten ; $ 
-Codigo 01856 ; marca sabo reten ; $ 
-Codigo 01856 ; marca sabo reten ; $ 
-Codigo 01911 ; marca sabo reten ; $ 
-Codigo 01942 ; marca sabo reten ; $ 
-Codigo 02004 ; marca sabo reten ; $ 
-Codigo 02006 ; marca sabo reten ; $  
-Codigo 02055 ; marca sabo reten ; $ 
-Codigo 02142 ; marca sabo reten ; $ 
-Codigo 02178 ; marca sabo reten ; $ 
-Codigo 02396 ; marca sabo reten ; $ 
-Codigo 02509 ; marca sabo reten ; $ 
-Codigo 02539 ; marca sabo reten ; $  
-Codigo 02544 ; marca sabo reten ; $ 
-Codigo 02578 ; marca sabo reten ; $ 
-Codigo 02702 ; marca sabo reten ; $17.000 
-Codigo 02844 ; marca sabo reten ; $  
-Codigo 02862 ; marca sabo reten ; $ 
-Codigo 02973 ; marca sabo reten ; $ 
-Codigo 03044 ; marca sabo reten ; $ 
-Codigo 03821 ; marca sabo reten ; $
-Codigo 04320 ; marca sabo reten ; $  
-Codigo 05062 ; marca sabo reten ; $ 
-Codigo 05117 ; marca sabo reten ; $ 
-Codigo 05159 ; marca sabo reten ; $ 
-Codigo 05198 ; marca sabo reten ; $ 
-Codigo 05239 ; marca sabo reten ; $ 
-Codigo 05248 ; marca sabo reten ; $ 
-Codigo 05250 ; marca sabo reten ; $ 
-Codigo 05254 ; marca sabo reten ; $  
-Codigo 05287 ; marca sabo reten ; $ 
-Codigo 05302 ; marca sabo reten ; $11.000 
-Codigo 05338 ; marca sabo reten ; $  
-Codigo 05413 ; marca sabo reten ; $ 
-Codigo 05512 ; marca sabo reten ; $ 
-Codigo 05536 ; marca sabo reten ; $ 
-Codigo 05587 ; marca sabo reten ; $  
-Codigo 05592 ; marca sabo reten ; $ 
-Codigo 05651 ; marca sabo reten ; $ 
-Codigo 05652 ; marca sabo reten ; $  
-Codigo 05675 ; marca sabo reten ; $ 
-Codigo 05683 ; marca sabo reten ; $  
-Codigo 05699 ; marca sabo reten ; $ 
-Codigo 05702 ; marca sabo reten ; $  
-Codigo 05772 ; marca sabo reten ; $ 
-Codigo 05775 ; marca sabo reten ; $ 
-Codigo 05780 ; marca sabo reten ; $  
-Codigo 05784 ; marca sabo reten ; $ 
-Codigo 05795 ; marca sabo reten ; $  
-Codigo 05801 ; marca sabo reten ; $ 
-Codigo 05809 ; marca sabo reten ; $ 
-Codigo 05813 ; marca sabo reten ; $  
-Codigo 05819 ; marca sabo reten ; $  
-Codigo 05831 ; marca sabo reten ; $ 
-Codigo 05832 ; marca sabo reten ; $  
-Codigo 05833 ; marca sabo reten ; $ 
-Codigo 05834 ; marca sabo reten ; $  
-Codigo 05873 ; marca sabo reten ; $ 
-Codigo 05875 ; marca sabo reten ; $ 
-Codigo 05876 ; marca sabo reten ; $
-Codigo 05877 ; marca sabo reten ; $ 
-Codigo 05903 ; marca sabo reten ; $  
-Codigo 05924 ; marca sabo reten ; $  
-Codigo 05936 ; marca sabo reten ; $  
-Codigo 05938 ; marca sabo reten ; $ 
-Codigo 05939 ; marca sabo reten ; $ 
-Codigo 05941 ; marca sabo reten ; $ 
-Codigo 05945 ; marca sabo reten ; $  
-Codigo 05947 ; marca sabo reten ; $ 
-Codigo 05953 ; marca sabo reten ; $  
-Codigo 05954 ; marca sabo reten ; $ 
-Codigo 05955 ; marca sabo reten ; $ 
-Codigo 05960 ; marca sabo reten ; $  
-Codigo 05967 ; marca sabo reten ; $ 
-Codigo 05966 ; marca sabo reten ; $ 
-Codigo 05971 ; marca sabo reten ; $  
-Codigo 05972 ; marca sabo reten ; $  
-Codigo 05978 ; marca sabo reten ; $ 
-Codigo 05985 ; marca sabo reten ; $ 
-Codigo 06007 ; marca sabo reten ; $  
-Codigo 06013 ; marca sabo reten ; $  
-Codigo 09260 ; marca sabo reten ; $  
-Codigo 09302 ; marca sabo reten ; $  
-Codigo 09312 ; marca sabo reten ; $  
-Codigo 09314 ; marca sabo reten ; $ 
-Codigo 09315 ; marca sabo reten ; $  
-Codigo 09323 ; marca sabo reten ; $ 
-Codigo 09331 ; marca sabo reten ; $  
-Codigo 09332 ; marca sabo reten ; $  
-Codigo 09347 ; marca sabo reten ; $ 
-Codigo 60086510 ; marca ciccarelli reten ; $ 
+00288;reten;SABO;descripcion;disponible;0.0
+01135;reten;SABO;RETEN BANCADA FIAT 125 RENAULT 12 1300;disponible;8000.0
+01856;reten;SABO;reten bancada chevette;disponible;10000.0
+01911;reten;SABO;descripcion;disponible;0.0
+01942;reten;SABO;descripcion;disponible;0.0
+02004;reten;SABO;descripcion;disponible;0.0
+02006;reten;SABO;descripcion;disponible;0.0
+02055;reten;SABO;descripcion;disponible;0.0
+02142;reten;SABO;descripcion;disponible;0.0
+02178;reten;SABO;descripcion;disponible;0.0
+02396;reten;SABO;descripcion;disponible;0.0
+02509;reten;SABO;descripcion;disponible;0.0
+02539;reten;SABO;descripcion;disponible;0.0
+02544;reten;SABO;descripcion;disponible;0.0
+02578;reten;SABO;descripcion;disponible;0.0
+02702;reten;SABO;descripcion;disponible;17.000
+02844;reten;SABO;descripcion;disponible;0.0
+02862;reten;SABO;descripcion;disponible;0.0
+02973;reten;SABO;descripcion;disponible;0.0
+03044;reten;SABO;descripcion;disponible;0.0
+03821;reten;SABO;descripcion;disponible;0.0
+04320;reten;SABO;descripcion;disponible;0.0
+05062;reten;SABO;descripcion;disponible;0.0
+05117;reten;SABO;descripcion;disponible;0.0
+05159;reten;SABO;descripcion;disponible;0.0
+05198;reten;SABO;descripcion;disponible;0.0
+05239;reten;SABO;descripcion;disponible;0.0
+05248;reten;SABO;descripcion;disponible;0.0
+05250;reten;SABO;descripcion;disponible;0.0
+05254;reten;SABO;descripcion;disponible;0.0
+05287;reten;SABO;descripcion;disponible;0.0
+05302;reten;SABO;descripcion;disponible;11.000
+05338;reten;SABO;descripcion;disponible;0.0
+05413;reten;SABO;descripcion;disponible;0.0
+05512;reten;SABO;descripcion;disponible;0.0
+05536;reten;SABO;descripcion;disponible;0.0
+05587;reten;SABO;descripcion;disponible;0.0
+05592;reten;SABO;descripcion;disponible;0.0
+05651;reten;SABO;descripcion;disponible;0.0
+05652;reten;SABO;descripcion;disponible;0.0
+05675;reten;SABO;descripcion;disponible;0.0
+05683;reten;SABO;descripcion;disponible;0.0
+05699;reten;SABO;descripcion;disponible;0.0
+05702;reten;SABO;descripcion;disponible;0.0
+05772;reten;SABO;descripcion;disponible;0.0
+05775;reten;SABO;descripcion;disponible;0.0
+05780;reten;SABO;descripcion;disponible;0.0
+05784;reten;SABO;descripcion;disponible;0.0
+05795;reten;SABO;descripcion;disponible;0.0
+05801;reten;SABO;descripcion;disponible;0.0
+05809;reten;SABO;descripcion;disponible;0.0
+05813;reten;SABO;descripcion;disponible;0.0
+05819;reten;SABO;descripcion;disponible;0.0
+05831;reten;SABO;descripcion;disponible;0.0
+05832;reten;SABO;descripcion;disponible;0.0
+05833;reten;SABO;descripcion;disponible;0.0
+05834;reten;SABO;descripcion;disponible;0.0
+05873;reten;SABO;descripcion;disponible;0.0
+05875;reten;SABO;descripcion;disponible;0.0
+05876;reten;SABO;descripcion;disponible;0.0
+05877;reten;SABO;descripcion;disponible;0.0
+05903;reten;SABO;descripcion;disponible;0.0
+05924;reten;SABO;descripcion;disponible;0.0
+05936;reten;SABO;descripcion;disponible;0.0
+05938;reten;SABO;descripcion;disponible;0.0
+05939;reten;SABO;descripcion;disponible;0.0
+05941;reten;SABO;descripcion;disponible;0.0
+05945;reten;SABO;descripcion;disponible;0.0
+05947;reten;SABO;descripcion;disponible;0.0
+05953;reten;SABO;descripcion;disponible;0.0
+05954;reten;SABO;descripcion;disponible;0.0
+05955;reten;SABO;descripcion;disponible;0.0
+05960;reten;SABO;descripcion;disponible;0.0
+05967;reten;SABO;descripcion;disponible;0.0
+05966;reten;SABO;descripcion;disponible;0.0
+05971;reten;SABO;descripcion;disponible;0.0
+05972;reten;SABO;descripcion;disponible;0.0
+05978;reten;SABO;descripcion;disponible;0.0
+05985;reten;SABO;descripcion;disponible;0.0
+06007;reten;SABO;descripcion;disponible;0.0
+06013;reten;SABO;descripcion;disponible;0.0
+09260;reten;SABO;descripcion;disponible;0.0
+09302;reten;SABO;descripcion;disponible;0.0
+09312;reten;SABO;descripcion;disponible;0.0
+09314;reten;SABO;descripcion;disponible;0.0
+09315;reten;SABO;descripcion;disponible;0.0
+09323;reten;SABO;descripcion;disponible;0.0
+09331;reten;SABO;descripcion;disponible;0.0
+09332;reten;SABO;descripcion;disponible;0.0
+09347;reten;SABO;descripcion;disponible;0.0
+60086510;reten;CICCARELLI;descripcion;disponible;0.0
